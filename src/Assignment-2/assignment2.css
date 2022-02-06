@@ -29,7 +29,7 @@ img{
 .bar{  
     position: absolute;
     margin-top: 45px;
-    margin-left: 1066px;
+    margin-left: 1065px;
     display: inline-block;   
     width: 177px;
     height: 30px;
@@ -71,7 +71,7 @@ img{
     border: 1px solid black;
     margin: 2px;
 }
-.post-image{
+.post-img{
     width: 308px;
     height: 184px;
     padding: 4px;
